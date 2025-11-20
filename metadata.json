@@ -1,0 +1,5 @@
+{
+  "name": "DeepDigit Viz",
+  "description": "An interactive deep learning visualization tool where users draw digits and a Vision AI analyzes the prediction process, layers, and probability distribution.",
+  "requestFramePermissions": []
+}
